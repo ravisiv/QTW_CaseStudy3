@@ -1,17 +1,3 @@
-﻿Case Study 3 – Classification/Clustering of Spam Emails		*Balaji, Ravi, Apurv*
-
-*Balaji Avvaru, Apurv Mittal, Ravi Sivaraman*
-
-*Quantifying The World | SMU | DR. SLATER*
-
-*CASE STUDY 4*
-
-Classification/Clustering of Emails
-
-![](Aspose.Words.a9dcd058-9301-4684-a440-dde662a24651.001.png)![](Aspose.Words.a9dcd058-9301-4684-a440-dde662a24651.002.png)![](Aspose.Words.a9dcd058-9301-4684-a440-dde662a24651.003.png)
-
-
-
 # Abstract
 
 The objective of this study is to find if a company will bankrupt or not. The data is heavily skewed towards companies that do not bankrupt as only some of the companies go bankrupt. The risk in creating this model is it will have an accuracy of over 95% but may still fail to predict when the company is going bankrupt as the data doesn’t have a lot of information about companies that went bankrupt. In this study, the objective is to find out with good accuracy and precision when predicting if companies may go under.
@@ -212,7 +198,4 @@ Description automatically generated](Aspose.Words.a9dcd058-9301-4684-a440-dde662
 The above table displays the features with their coefficient levels. These are the top 10 coefficients after the L2 penalty. 
 
 This model is recommended to use as it produces higher accuracy and precision (with a high f-score).
-# Appendix – Code
-
-9
 
